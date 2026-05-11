@@ -5,6 +5,7 @@
   <a href="https://guoxu1233.github.io/DreamID-Omni/">🌐 Project Page</a> |
   <a href="https://arxiv.org/abs/2602.12160">📜 Arxiv</a> |
   <a href="https://huggingface.co/XuGuo699/DreamID-Omni">🤗 Models</a> |
+  <a href="https://huggingface.co/datasets/XuGuo699/IDBench-Omni">🤗 IDBench-Omni</a>
 </p>
 
 > **DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation**<br>
@@ -21,7 +22,7 @@
 
 - [x] Release the technical report
 - [x] Release the R2AV model trained with In-pair Reconstruction and Cross-pair Disentanglement
-- [ ] Release IDBench-Omni
+- [x] Release IDBench-Omni
 - [ ] Release the final model after Omni-Task Fine-tuning for R2AV, RV2AV, and RA2V
 
 ## 🔥 News
