@@ -133,32 +133,25 @@ By using this software, you agree to adhere to these guidelines and applicable l
 If you find our work helpful, please consider citing our paper and leaving valuable stars
 
 ```
-@misc{guo2026dreamidomni,
-      title={DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation}, 
-      author={Xu Guo and Fulong Ye and Qichao Sun and Liyang Chen and Bingchuan Li and Pengze Zhang and Jiawei Liu and Songtao Zhao and Qian He and Xiangwang Hou},
-      year={2026},
-      eprint={2602.12160},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2602.12160}, 
+@article{guo2026dreamidomni,
+  title   = {DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation},
+  author  = {Guo, Xu and Ye, Fulong and Sun, Qichao and Chen, Liyang and Li, Bingchuan and Zhang, Pengze and Liu, Jiawei and Zhao, Songtao and He, Qian and Hou, Xiangwang},
+  journal = {arXiv preprint arXiv:2602.12160},
+  year    = {2026}
 }
-@misc{guo2026dreamidvbridgingimagetovideogaphighfidelity,
-      title={DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer}, 
-      author={Xu Guo and Fulong Ye and Xinghui Li and Pengqi Tu and Pengze Zhang and Qichao Sun and Songtao Zhao and Xiangwang Hou and Qian He},
-      year={2026},
-      eprint={2601.01425},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2601.01425}, 
+
+@article{guo2026dreamidv,
+  title   = {DreamID-V: Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer},
+  author  = {Guo, Xu and Ye, Fulong and Li, Xinghui and Tu, Pengqi and Zhang, Pengze and Sun, Qichao and Zhao, Songtao and Hou, Xiangwang and He, Qian},
+  journal = {arXiv preprint arXiv:2601.01425},
+  year    = {2026}
 }
-@misc{ye2025dreamidhighfidelityfastdiffusionbased,
-      title={DreamID: High-Fidelity and Fast diffusion-based Face Swapping via Triplet ID Group Learning}, 
-      author={Fulong Ye and Miao Hua and Pengze Zhang and Xinghui Li and Qichao Sun and Songtao Zhao and Qian He and Xinglong Wu},
-      year={2025},
-      eprint={2504.14509},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2504.14509}, 
+
+@article{ye2025dreamid,
+  title   = {DreamID: High-Fidelity and Fast Diffusion-based Face Swapping via Triplet ID Group Learning},
+  author  = {Ye, Fulong and Hua, Miao and Zhang, Pengze and Li, Xinghui and Sun, Qichao and Zhao, Songtao and He, Qian and Wu, Xinglong},
+  journal = {arXiv preprint arXiv:2504.14509},
+  year    = {2025}
 }
 ```
 
